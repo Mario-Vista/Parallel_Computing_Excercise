@@ -44,10 +44,6 @@ If you encounter any issues or have suggestions for improvement, please open an 
 
 This repository is licensed under the [MIT License](LICENSE). Feel free to use the exercises and code provided for educational purposes or in your own projects.
 
-## Acknowledgements
-
-We would like to acknowledge the contributions of the original authors and creators of the exercises included in this repository. Their efforts have made this valuable resource possible.
-
 ## Disclaimer
 
 The exercises in this repository are intended for educational purposes only. It is essential to ensure proper understanding and usage of parallel computing concepts to avoid potential issues related to thread synchronization, data race conditions, and other parallelization challenges.
