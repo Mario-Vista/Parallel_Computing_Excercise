@@ -1,4 +1,4 @@
-//Binary Search using OMP parallel
+//Binary Search algorithm using OMP parallel
 
 #include <stdio.h>
 #include <omp.h>
